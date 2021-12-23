@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alem-agro/static/css/main.1587a740.chunk.css",
+    "main.js": "/alem-agro/static/js/main.3b3566c0.chunk.js",
+    "main.js.map": "/alem-agro/static/js/main.3b3566c0.chunk.js.map",
+    "runtime-main.js": "/alem-agro/static/js/runtime-main.bcbab394.js",
+    "runtime-main.js.map": "/alem-agro/static/js/runtime-main.bcbab394.js.map",
+    "static/js/2.c4e6d715.chunk.js": "/alem-agro/static/js/2.c4e6d715.chunk.js",
+    "static/js/2.c4e6d715.chunk.js.map": "/alem-agro/static/js/2.c4e6d715.chunk.js.map",
+    "static/js/3.b1800dfb.chunk.js": "/alem-agro/static/js/3.b1800dfb.chunk.js",
+    "static/js/3.b1800dfb.chunk.js.map": "/alem-agro/static/js/3.b1800dfb.chunk.js.map",
+    "index.html": "/alem-agro/index.html",
+    "static/css/main.1587a740.chunk.css.map": "/alem-agro/static/css/main.1587a740.chunk.css.map",
+    "static/js/2.c4e6d715.chunk.js.LICENSE.txt": "/alem-agro/static/js/2.c4e6d715.chunk.js.LICENSE.txt",
+    "static/media/user.07073b35.png": "/alem-agro/static/media/user.07073b35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcbab394.js",
+    "static/js/2.c4e6d715.chunk.js",
+    "static/css/main.1587a740.chunk.css",
+    "static/js/main.3b3566c0.chunk.js"
+  ]
+}
