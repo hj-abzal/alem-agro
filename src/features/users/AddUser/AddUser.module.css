@@ -1,0 +1,41 @@
+
+.wrapper {
+  height: 100vh;
+  width: 100vw;
+  background-color: radial-gradient(628px at 50% 50%,#fff 0,#f4f4f4 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.form{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+
+.left{
+padding-right: 15px;
+}
+
+.content {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  border: 1px solid blue;
+  display: flex;
+  justify-content: center;
+}
+
+.cancelBtn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.errorStyle {
+  height: 20px;
+  color: red;
+}

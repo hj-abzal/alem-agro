@@ -1,0 +1,48 @@
+.wrapper {
+  width: 70vw;
+  min-height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: radial-gradient(628px at 50% 50%,#fff 0,#f4f4f4 100%);
+  border-radius: 20px;
+  margin-bottom: 15px;
+  position: relative;
+  border: 1px solid blue;
+   overflow-x: scroll;
+}
+.editIcon {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.saveIcon {
+  margin-bottom: 13px;
+}
+.picture {
+  width: 100px;
+}
+@media screen and (max-device-width: 500px) {
+    .picture {
+      display: none;
+    }
+}
+.info {
+  width: 70%;
+}
+
+.infoItem {
+  white-space: pre-line;
+  display: flex;
+  padding: 5px;
+}
+
+.title {
+  padding-right: 5px;
+}
+
+.name {
+    padding-right: 10px;
+    font-weight: bold;
+}
+

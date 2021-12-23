@@ -1,0 +1,31 @@
+.wrapper {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bgrImg {
+  height: 100vh;
+  width: 100vw;
+  filter: blur(3px) brightness(1.75) ;
+  -webkit-filter: blur(3px)  brightness(1.3);   
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://images.pexels.com/photos/849403/pexels-photo-849403.jpeg?cs=srgb&dl=pexels-peter-de-vink-849403.jpg&fm=jpg")
+}
+
+.inputStyle {
+  color: #ffffff
+}
+
+.errorStyle {
+  height: 20px;
+  color: red;
+}
