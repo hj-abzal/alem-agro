@@ -22,8 +22,8 @@ export const Login = () => {
 	};
 	const formik = useFormik({
 		initialValues: {
-			email: 'admin@gmail.com',
-			password: 'admin7777',
+			email: '',
+			password: '',
 		},
 		validate: (values) => {
 			const errors: FormErrorType = {};
